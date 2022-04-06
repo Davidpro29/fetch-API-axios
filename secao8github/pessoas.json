@@ -1,0 +1,33 @@
+[
+ {
+    "nome": "Amanda",
+    "email": "amanda@outlook.com",
+    "salario": 26582,
+    "estado": "RN",
+    "empresa": "CCEE",
+    "idade": 22,
+    "sexo": "F",
+    "cpf": "687.160.725-02"
+  },
+  {
+    "nome": "Ian",
+    "email": "ian@outlook.com",
+    "salario": 14594,
+    "estado": "ES",
+    "empresa": "CCEE",
+    "idade": 18,
+    "sexo": "",
+    "cpf": "662.326.127-36"
+  },
+  {
+    "nome": "Alícia",
+    "email": "alicia@hotmail.com",
+    "salario": 44016,
+    "estado": "BA",
+    "empresa": "Google",
+    "idade": 20,
+    "sexo": "F",
+    "cpf": "174.282.537-05"
+  }
+
+]
